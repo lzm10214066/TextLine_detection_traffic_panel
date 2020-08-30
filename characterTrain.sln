@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "characterTrain", "characterTrain\characterTrain.vcxproj", "{54AA68B3-12B0-41C3-B70A-F0235A5020AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "characterTest", "characterTest\characterTest.vcxproj", "{7A29265C-7A45-4444-97D5-D544013386F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54AA68B3-12B0-41C3-B70A-F0235A5020AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{54AA68B3-12B0-41C3-B70A-F0235A5020AF}.Debug|Win32.Build.0 = Debug|Win32
+		{54AA68B3-12B0-41C3-B70A-F0235A5020AF}.Release|Win32.ActiveCfg = Release|Win32
+		{54AA68B3-12B0-41C3-B70A-F0235A5020AF}.Release|Win32.Build.0 = Release|Win32
+		{7A29265C-7A45-4444-97D5-D544013386F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7A29265C-7A45-4444-97D5-D544013386F2}.Debug|Win32.Build.0 = Debug|Win32
+		{7A29265C-7A45-4444-97D5-D544013386F2}.Release|Win32.ActiveCfg = Release|Win32
+		{7A29265C-7A45-4444-97D5-D544013386F2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
